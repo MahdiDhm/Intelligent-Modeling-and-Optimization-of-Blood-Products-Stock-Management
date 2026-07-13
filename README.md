@@ -58,7 +58,7 @@ Real-world dataset from CWTS Béjaïa (confidential):
 |--------|--------|-------|--------|
 | Service Rate (CE) | 31.86% | 81.30% | +156% improvement |
 | Stockout Probability | Baseline | 68.14% | Reduced (nominal conditions) |
-| Best ML Model (MAPE) | — | 5.54% | CatBoost |
+| Best ML Model (MAPE) | . | 5.54% | CatBoost |
 
 
 ## Notes
