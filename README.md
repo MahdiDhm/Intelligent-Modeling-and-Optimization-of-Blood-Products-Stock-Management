@@ -43,10 +43,10 @@ Real-world dataset from CWTS Béjaïa (confidential):
 - **README.md**
 - **docs/**
   - `Full Thesis.pdf`: Complete thesis with full methodology and results
-- **leaflet/**
+- **Leaflet/**
   - `01_cover.png`: Leaflet cover page
   - `02_results.png`: Leaflet results page
-- **dashboard_screenshots/**
+- **Dashboard/**
   - `01_dashboard_overview.png`: Operational dashboard overview
   - `02_donor_registration.png`: Donor registration  
   - `03_stock_products_overview.png`: Stock inventory overview
